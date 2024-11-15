@@ -1,0 +1,12 @@
+Django==3.2.10
+djangorestframework==3.12.4
+mysql-connector-python==8.0.27
+geopy==2.2.0
+mysqlclient
+swisseph 
+pytz 
+timezonefinder
+pyswisseph
+astropy
+kerykeion
+datetime
